@@ -1,2 +1,0 @@
-# CTF
-from local
